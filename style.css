@@ -1,0 +1,36 @@
+body 
+{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    background: rgb(18, 239, 247);
+
+}
+.header_div
+{
+    background:  white;
+    color: #ff7f50;
+}
+.header_div p {
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 2px ;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    margin-top: 30px;
+    width: 130;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: rgb(0, 17, 255);
+    bottom: 0;
+    width: 100%;
+    font-size:  18px;
+    background-color: aliceblue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(18, 239, 247);
+}
